@@ -1,0 +1,9 @@
+#spring.application.name=spring-cloud-config-client
+spring:
+  application:
+    name: spring-cloud-config-client
+
+
+    #server.port=8002
+server:
+  port: 8002
